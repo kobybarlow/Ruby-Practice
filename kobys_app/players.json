@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Sam Darnold",
+        "Number": 14,
+        "Position": "Quarterback"
+    },
+
+    {
+        "id": 2,
+        "name": "Jaxon Smith-Njigba",
+        "Number": 11,
+        "Position": "Wide Receiver"
+    },
+
+    {
+        "id": 3,
+        "name": "Kenneth Walker",
+        "Number": 9,
+        "Position": "Runningback"
+    }
+]
